@@ -1,0 +1,20 @@
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\bin\Debug\ЛР7.exe.config
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\bin\Debug\ЛР7.exe
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\bin\Debug\ЛР7.pdb
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\obj\Debug\ЛР7.csprojAssemblyReference.cache
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\obj\Debug\ЛР7.Form1.resources
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\obj\Debug\ЛР7.Properties.Resources.resources
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\obj\Debug\ЛР7.csproj.GenerateResource.cache
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\obj\Debug\ЛР7.csproj.CoreCompileInputs.cache
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\obj\Debug\ЛР7.exe
+E:\Лекции\ЛР\ИСП\ЛР7\ЛР7\obj\Debug\ЛР7.pdb
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\obj\Debug\ЛР7.csprojAssemblyReference.cache
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\obj\Debug\ЛР7.Form1.resources
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\obj\Debug\ЛР7.Properties.Resources.resources
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\obj\Debug\ЛР7.csproj.GenerateResource.cache
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\obj\Debug\ЛР7.csproj.CoreCompileInputs.cache
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\obj\Debug\ЛР7.exe
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\obj\Debug\ЛР7.pdb
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\bin\Debug\ЛР7.exe.config
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\bin\Debug\ЛР7.exe
+C:\Users\sysco\OneDrive\Рабочий стол\ЛР7\ЛР7\bin\Debug\ЛР7.pdb
